@@ -10,3 +10,5 @@ Adds options for a floating background color in the footer.
 ## Screenshot
 
 ![Screenshot](https://raw.githubusercontent.com/Developd/social-warfare-floating-footer-options/master/screenshot.png)
+
+![Screenshot](https://raw.githubusercontent.com/Developd/social-warfare-floating-footer-options/master/screenshot.gif)
